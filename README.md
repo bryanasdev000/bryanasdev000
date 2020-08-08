@@ -3,6 +3,11 @@
 
 ### Hi there 👋
 
+Proud Linux User (NixOS) and FLOSS lover.
+
+- 🔭 I’m currently working with infrastructure and a bit of development here and there
+- 🌱 I’m currently learning Kubernetes and its ecosystem
+
 <!--
 **bryanasdev000/bryanasdev000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
