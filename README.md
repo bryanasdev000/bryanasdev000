@@ -5,9 +5,9 @@
 
 Proud Linux User (NixOS) and FLOSS lover.
 
-- 🔭 I’m currently working with infrastructure and a bit of development here and there
+- 🔭 I'm currently working with infrastructure and a bit of development here and there, always focusing in free software
 - 🌱 I’m currently learning Kubernetes and its ecosystem
-- 👯 I’m looking to collaborate on Nix, NixOS, Kubernetes and Prometheus
+- 👯 I’m looking to collaborate on Nix, NixOS, Terraform, Kubernetes and Prometheus
 
 <!--
 **bryanasdev000/bryanasdev000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
