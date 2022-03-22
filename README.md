@@ -5,7 +5,6 @@
 
 <h3 align="center">A random guy that is passionate about IT, specially Free/Libre and Open Source Software, also a proud Linux user and Nix{OS} maintainer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanasdev000&label=Profile%20views&color=0e75b6&style=flat-square" alt="bryanasdev000" /> </p>
 
 - 🔭 I'm currently working with infrastructure and a bit of development here and there, always focusing in free software
 - 🌱 I'm currently focusing my studies on Kubernetes and its ecosystem
